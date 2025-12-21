@@ -258,7 +258,7 @@ function Footer() {
        <a href="https://x.com/OrigoFin12102" target="_blank"> <span className="hover:text-teal-400 cursor-pointer">X</span> </a>
        <a href="https://www.linkedin.com/in/vineet-kumar-singh001/" target="_blank"> <span className="hover:text-teal-400 cursor-pointer">LinkedIn</span> </a>
        <a href="https://www.instagram.com/fin.origo/" target="_blank"> <span className="hover:text-teal-400 cursor-pointer">Instagram</span> </a> 
-       <a href="vineetcs001@gmail.com" target="_blank"> <span className="hover:text-teal-400 cursor-pointer">Email</span> </a>
+       <a href="mailto:vineetcs001@gmail.com"> <span className="hover:text-teal-400 cursor-pointer">Email</span> </a>
       </div>
 
       <p className="mt-10 text-xs text-gray-500">
