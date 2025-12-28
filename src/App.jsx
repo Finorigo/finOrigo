@@ -58,33 +58,46 @@ function Navbar() {
 function MainContent() {
   
   let equityReports= [
+
      {
     id: 1,
     name: "Titan",
     date: "1 Sep,2025",
     link: "https://drive.google.com/file/d/1kJdz70Qy9UvkgMPNdzseUv0UJ8IXYs69/view",
   },
+
+
   ]
   let  ipoReports = [
-     {
+  
+    {
     id: 3,
     name: "KSH International",
     date: "16 Dec,2025",
     link: "https://drive.google.com/file/d/1PvtVIC5bssx1ULTVxztkCc3x2Qwl3-ZG/view",
   },
+
     {
     id: 2,
     name: "Park Medi",
     date: "10 Dec,2025",
     link: "https://drive.google.com/file/d/1rFyjaGRhPB-xggpadbOwqn8bzq9faqB8/view",
   },
+
      {
     id: 1,
     name: "Meeso",
     date: "03 Dec,2025",
     link: "https://drive.google.com/file/d/10H3O-0s4FaNUl2Xv1Oy12B5QGnyzis9-/view",
-  },]
-  let valuationReports = []
+  },
+
+]
+
+
+  let valuationReports = [
+
+
+  ]
 
   return (
     <main className="pt-20">
